@@ -66,6 +66,10 @@ class Vehicle(ABC):
         return self.fuel_type
 ```
 
+## Table of Members
 | Name | Username |
 |------|----------|
-| Kate | [username](https://github.com/)|
+| Kate | [username]|
+| Karl | [username]|
+| Rheman | riri-cpp|
+| Micha | [username]|
