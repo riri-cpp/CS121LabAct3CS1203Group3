@@ -1,9 +1,12 @@
 ## Garage OOP Program (Vehicle Management System)
 Team Members:
-1. De Leon, Kate Hannah P.
-2. Pasia, Rheman E.
-3. Rubala, Micha A.
-4. Talagtag, Karl Andrei C.
+| Name | Username |
+|------|----------|
+| De Leon, Kate Hannah P. | kateehannah : https://github.com/kateehannah|
+| Pasia, Rheman E. | riri-cpp : https://github.com/riri-cpp|
+| Rubala, Micha A. | urmchaa : https://github.com/urmchaa|
+| Talagtag, Karl Andrei C. | DreiwanabeTexh : https://github.com/DreiwanabeTexh|
+
 
 ## System Description
 This is an interactive console application designed to simulate the operation of various types of vehicles, including cars, buses, yachts, and trucks. The program utilizes object-oriented programming principles, specifically inheritance and abstraction, to create a flexible and extensible system for managing different vehicle types.
@@ -65,14 +68,6 @@ class Vehicle(ABC):
     def fuel_type(self):
         return self.fuel_type
 ```
-
-## Table of Members
-| Name | Username |
-|------|----------|
-| Kate | kateehannah|
-| Karl | DreiwanabeTexh|
-| Rheman | riri-cpp|
-| Micha | urmchaa|
 
 ## Acknowledgements
 
