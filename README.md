@@ -73,3 +73,7 @@ class Vehicle(ABC):
 | Karl | DreiwanabeTexh|
 | Rheman | riri-cpp|
 | Micha | urmchaa|
+
+## Acknowledgements
+
+The group extends its sincere gratitude to Ms. Fatima Marie Agdon for her invaluable assistance and guidance, which greatly contributed to the successful completion of the project. The members also appreciate the many discussions they shared, as these exchanges offered each individual meaningful insights and a deeper understanding of the subject matter.
