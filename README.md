@@ -69,7 +69,7 @@ class Vehicle(ABC):
 ## Table of Members
 | Name | Username |
 |------|----------|
-| Kate | [username]|
-| Karl | [username]|
+| Kate | kateehannah|
+| Karl | DreiwanabeTexh|
 | Rheman | riri-cpp|
-| Micha | [username]|
+| Micha | urmchaa|
